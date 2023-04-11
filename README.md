@@ -1,5 +1,8 @@
-**List**
-is a collection which is ordered and changeable. Allows duplicate members.
+# Py Playground
+
+> learning some goooood ol python :snake:
+> **List**
+> is a collection which is ordered and changeable. Allows duplicate members.
 
 **Tuple**
 is a collection which is ordered and unchangeable. Allows duplicate members.
